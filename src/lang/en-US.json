@@ -1,0 +1,91 @@
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "twitterFeed": "Twitter Feed",
+    "all": "EN Group",
+    "cn": "CN Group",
+    "airdropEn": "EN Group Airdrop",
+    "airdropCn": "CN Group Airdrop",
+    "topTweet": "Top Tweet(24H)",
+    "topThread": "Top Thread(24H)",
+    "topTweetAll": "Top Tweet All(24H)",
+    "topThreadAll": "Top Thread All(24H)",
+    "topTweetCn": "Top Tweet CN(24H)",
+    "topTweetCnHelp": "Top Tweets interacted by Chinese accounts",
+    "topThreadCn": "Top Thread CN(24H)",
+    "topThreadCnHelp": "Top Thread interacted by Chinese accounts",
+    "topTweetAirdropEn": "Top Airdrop Tweet ALL(24H)",
+    "topTweetAirdropCn": "Top Airdrop Tweet CN(24H)",
+    "topTweetAirdropCnHelp": "Top Airdrop Tweet interacted by Chinese accounts",
+    "topHashtag": "Top Hashtag(24H)",
+    "topCashtag": "Top Cashtag(24H)",
+    "topFollowing": "Top Project(24H)",
+    "newProject": "New Project(within 30D, 10000 followers limit)",
+    "project": "Project",
+    "tweetSummary": "Tweet Summary",
+    "nft": "NFT",
+    "tvl": "TVL"
+  },
+  "twitterFeed": {
+    "title": "Twitter Feed",
+    "topTweets": "Top Tweets",
+    "topAirdrops": "Top Airdrops",
+    "topTags": "Top Tags",
+    "tweetsHead": "Top Tweets/Thread",
+    "threads": "Threads",
+    "isThreadYes": "Threads Only",
+    "isThreadNo": "All Tweets",
+    "8h": "8H",
+    "24h": "24H",
+    "48h": "48H",
+    "7d": "7D",
+    "group": "Kol Group",
+    "isThread": "IsThread",
+    "recentHours": "Recent Hours",
+    "tagName": "Tags",
+    "filterCryptoYes": "Show Crypto Relevant",
+    "filterCryptoNo": "Show All Tweets",
+    "filterAirdropYes": "Show Airdrop Relevant",
+    "filterAirdropNo": "Show All Tweets",
+    "tag": "Tag",
+    "hash": "Hashtag",
+    "cash": "Cashtag",
+    "tagsHead": "Top Hashtag/Cashtag",
+    "daysOffset": "daysOffset",
+    "days": "Day(s)"
+  },
+  "project": {
+    "title": "Project",
+    "hotProjects": "Hot Projects",
+    "newProjects": "New Projects",
+    "creationOffset": "Within Creation Days: ",
+    "followerLimit": "Within Followers Limit: "
+  },
+  "nft": {
+    "title": "NFT",
+    "hotNFT": "Hot NFT"
+  },
+  "tvl": {
+    "title": "TVL",
+    "tvlProject": "Project TVL",
+    "tvlChain": "Chain TVL",
+    "tvlLayer2": "Layer2 TVL"
+  },
+  "meta": {
+    "title": "CryptoHunt",
+    "description": "Track early crypto signals that few understand",
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "Switch to {locale, select, zhCN {Chinese} enUS {English} other {Unknown}}"
+  },
+  "payment": {
+    "title": "Subscribe",
+    "introduction": "By subscribing to premium service , you can unlock the full access to discover and track early alpha signals from DeFi/NFT/Web3 projects",
+    "whatsIncluded": "What's included",
+    "includeItems": "Full list of hot and early projects/ NFTs__Filter projects based on scores__Real time notifications of early projects__New features keep coming",
+    "payWithCrypto": "Pay with Crypto",
+    "paymentList": "0.05,1,50000000000000000,31__0.2,6,200000000000000000,186"
+  },
+  "more": "More"
+}

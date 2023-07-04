@@ -1,0 +1,91 @@
+{
+  "dashboard": {
+    "title": "仪表盘",
+    "twitterFeed": "推特资讯",
+    "all": "英文区",
+    "cn": "华语区",
+    "airdropEn": "英文区空投",
+    "airdropCn": "华语区空投",
+    "topTweet": "热门推文(24H)",
+    "topThread": "热门长推文(24H)",
+    "topHashtag": "热门关键词(24H)",
+    "topTweetAll": "热门推文(24H)",
+    "topThreadAll": "热门长推文(24H)",
+    "topTweetCn": "华语区热门推文(24H)",
+    "topTweetCnHelp": "华语账户关注的热门推文",
+    "topThreadCn": "华语区热门长推文(24H)",
+    "topThreadCnHelp": "华语账户关注的热门长推文",
+    "topTweetAirdropEn": "热门空投推文(24H)",
+    "topTweetAirdropCn": "华语区热门空投推文(24H)",
+    "topTweetAirdropCnHelp": "华语账户关注的热门空投推文",
+    "topCashtag": "热门代币(24H)",
+    "topFollowing": "热门项目(24H)",
+    "newProject": "新项目(30天内, 10000关注量内)",
+    "project": "项目",
+    "tweetSummary": "推文总结",
+    "nft": "NFT",
+    "tvl": "锁仓资金"
+  },
+  "twitterFeed": {
+    "title": "推特资讯",
+    "topTweets": "热门推文",
+    "topAirdrops": "热门空投",
+    "topTags": "热门话题",
+    "tweetsHead": "热门推文/长推文",
+    "threads": "长推文",
+    "isThreadYes": "长推文",
+    "isThreadNo": "所有推文",
+    "8h": "8H",
+    "24h": "24H",
+    "48h": "48H",
+    "7d": "7D",
+    "group": "Kol Group",
+    "isThread": "IsThread",
+    "recentHours": "Recent Hours",
+    "tagName": "标签",
+    "filterCryptoYes": "展示加密货币相关",
+    "filterCryptoNo": "展示所有推文",
+    "filterAirdropYes": "展示空投相关",
+    "filterAirdropNo": "展示所有推文",
+    "tag": "标签",
+    "hash": "关键词",
+    "cash": "代币",
+    "tagsHead": "热门关键词/代币",
+    "daysOffset": "daysOffset",
+    "days": "天"
+  },
+  "project": {
+    "title": "项目",
+    "hotProjects": "热门项目",
+    "newProjects": "新项目",
+    "creationOffset": "创建时间(天)内: ",
+    "followerLimit": "关注量内: "
+  },
+  "nft": {
+    "title": "NFT",
+    "hotNFT": "热门NFT"
+  },
+  "tvl": {
+    "title": "锁仓资金",
+    "tvlProject": "项目锁仓",
+    "tvlChain": "公链锁仓",
+    "tvlLayer2": "二层网锁仓"
+  },
+  "meta": {
+    "title": "CryptoHunt",
+    "description": "跟踪早期交易信号",
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "转换为 {locale, select, zhCN {中文} enUS {英文} other {其它}}"
+  },
+  "payment": {
+    "title": "Subscribe",
+    "introduction": "By subscribing to premium service , you can unlock the full access to discover and track early alpha signals from DeFi/NFT/Web3 projects",
+    "whatsIncluded": "What's included",
+    "includeItems": "Full list of hot and early projects/ NFTs__Filter projects based on scores__Real time notifications of early projects__New features keep coming",
+    "payWithCrypto": "Pay with Crypto",
+    "paymentList": "0.05,1,50000000000000000,31__0.2,6,200000000000000000,186"
+  },
+  "more": "更多"
+}
